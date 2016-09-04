@@ -1,0 +1,15 @@
+typography_spectrum: 0.9121864
+color:
+  saturation: 0.7724015
+  lightness: 0.7096774
+  brandStrength: 0.7876315
+  brandColors:
+    - '#000000'
+    - '#FFD700'
+    - '#827021'
+    - '#D3BD29'
+    - '#615015'
+  rhythmicContrast: 0.5670069
+layout_spectrum: 0
+name: Tomotheapp.com
+title: TOMO!
