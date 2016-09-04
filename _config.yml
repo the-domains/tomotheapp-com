@@ -23,13 +23,13 @@ color:
     - '#000000'
     - '#646464'
   lightness: 0.5636395323090255
-name: Tomotheapp.com
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/919e1746-05a0-4632-bd59-2b48b8278928.jpg
 author:
   name: Frank Ozoria Jr
   email: Frank.ozoria@gmail.com
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/919e1746-05a0-4632-bd59-2b48b8278928.jpg
+name: Tomotheapp.com
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a1f0d96-f51e-4ede-bb00-cf691ec94f38.jpg
 typography_spectrum: 0.3083809746894985
-layout_spectrum: 1
+layout_spectrum: 0.3261649
