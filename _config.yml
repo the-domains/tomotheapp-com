@@ -18,9 +18,6 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a1f0d96-f51e-4ede-bb00-cf691ec94f38.jpg
 name: Tomotheapp.com
 navigation:
-  - name: About
-    url: 'http://www.tomotheapp.com/about-.html'
-    type: external
   - name: Media
     url: 'http://www.tomotheapp.com/media.html'
     type: external
