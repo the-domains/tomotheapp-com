@@ -1,16 +1,16 @@
-typography_spectrum: 0.9121864
+layout_spectrum: 0.9408754804171622
+typography_spectrum: 0.0023577872198075056
 color:
-  saturation: 0.7724015
-  lightness: 0.7096774
-  brandStrength: 0.7876315
+  saturation: 0.40600319392979145
+  lightness: 0.5636395323090255
+  brandStrength: 0.6267227644566447
   brandColors:
+    - '#FFFFFF'
+    - '#36A5DD'
+    - '#FBD504'
     - '#000000'
-    - '#FFD700'
-    - '#827021'
-    - '#D3BD29'
-    - '#615015'
-  rhythmicContrast: 0.5670069
-layout_spectrum: 0
+    - '#646464'
+  rhythmicContrast: 0.16559665114618838
 author:
   name: Frank Ozoria Jr
   email: Frank.ozoria@gmail.com
