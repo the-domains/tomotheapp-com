@@ -1,23 +1,35 @@
-layout_spectrum: 0.4206517308484763
-typography_spectrum: 0.30838097468949854
+title: TOMO!
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: Your First Step Toward Social Pollination
 color:
-  saturation: 0.40600319392979145
-  lightness: 0.5636395323090255
+  saturation: 0.4060031939297915
   brandStrength: 0.6267227644566447
+  rhythmicContrast: 0.1655966511461884
   brandColors:
     - '#FFFFFF'
     - '#36A5DD'
     - '#FBD504'
     - '#000000'
     - '#646464'
-  rhythmicContrast: 0.16559665114618838
+  lightness: 0.5636395323090255
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/919e1746-05a0-4632-bd59-2b48b8278928.jpg
 author:
   name: Frank Ozoria Jr
   email: Frank.ozoria@gmail.com
+name: Tomotheapp.com
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a1f0d96-f51e-4ede-bb00-cf691ec94f38.jpg
-name: Tomotheapp.com
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/919e1746-05a0-4632-bd59-2b48b8278928.jpg
-title: TOMO!
-description: Your First Step Toward Social Pollination
+typography_spectrum: 0.3083809746894985
+layout_spectrum: 0
