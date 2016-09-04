@@ -21,6 +21,9 @@ navigation:
   - name: About
     url: 'http://www.tomotheapp.com/about-.html'
     type: external
+  - name: Media
+    url: 'http://www.tomotheapp.com/media.html'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/919e1746-05a0-4632-bd59-2b48b8278928.jpg
 title: TOMO!
